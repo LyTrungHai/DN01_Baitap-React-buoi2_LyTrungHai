@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DN01_Baitap-React-buoi2_LyTrungHai/static/css/main.fc3bd7f0.chunk.css",
+    "main.js": "/DN01_Baitap-React-buoi2_LyTrungHai/static/js/main.62030f6d.chunk.js",
+    "main.js.map": "/DN01_Baitap-React-buoi2_LyTrungHai/static/js/main.62030f6d.chunk.js.map",
+    "runtime-main.js": "/DN01_Baitap-React-buoi2_LyTrungHai/static/js/runtime-main.1c967d3b.js",
+    "runtime-main.js.map": "/DN01_Baitap-React-buoi2_LyTrungHai/static/js/runtime-main.1c967d3b.js.map",
+    "static/js/2.5e44a977.chunk.js": "/DN01_Baitap-React-buoi2_LyTrungHai/static/js/2.5e44a977.chunk.js",
+    "static/js/2.5e44a977.chunk.js.map": "/DN01_Baitap-React-buoi2_LyTrungHai/static/js/2.5e44a977.chunk.js.map",
+    "static/js/3.4e52c7b4.chunk.js": "/DN01_Baitap-React-buoi2_LyTrungHai/static/js/3.4e52c7b4.chunk.js",
+    "static/js/3.4e52c7b4.chunk.js.map": "/DN01_Baitap-React-buoi2_LyTrungHai/static/js/3.4e52c7b4.chunk.js.map",
+    "index.html": "/DN01_Baitap-React-buoi2_LyTrungHai/index.html",
+    "static/css/main.fc3bd7f0.chunk.css.map": "/DN01_Baitap-React-buoi2_LyTrungHai/static/css/main.fc3bd7f0.chunk.css.map",
+    "static/js/2.5e44a977.chunk.js.LICENSE.txt": "/DN01_Baitap-React-buoi2_LyTrungHai/static/js/2.5e44a977.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/DN01_Baitap-React-buoi2_LyTrungHai/static/media/background.710d4027.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c967d3b.js",
+    "static/js/2.5e44a977.chunk.js",
+    "static/css/main.fc3bd7f0.chunk.css",
+    "static/js/main.62030f6d.chunk.js"
+  ]
+}
