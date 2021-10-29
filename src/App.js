@@ -4,7 +4,7 @@ import BaiTapChonKinh from "./BaiTapChonKinh/BaiTapChonKinh";
 
 function App() {
   return (
-    <div className="App bg-body">
+    <div className="App ">
       <BaiTapChonKinh />
     </div>
   );
